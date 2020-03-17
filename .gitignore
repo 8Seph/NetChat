@@ -1,5 +1,2 @@
-
-.idea/workspace.xml
-*.class
-*.class
-*.class
+.idea/
+out/**
